@@ -1,0 +1,17 @@
+.btn{
+ display: flex;
+ flex-wrap: wrap;
+ margin: 9px;
+ font-size: 30px;
+ padding: 2px 20px;
+ border:none;
+ border-radius:12px;
+ background-color:#FFFFFF;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btncontainer{
+    border:none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
